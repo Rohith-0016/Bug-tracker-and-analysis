@@ -1,0 +1,6 @@
+bug_id,title,severity,status,created_date,resolved_date
+1,Login error,High,Closed,2024-01-01,2024-01-03
+2,UI issue,Low,Open,2024-01-02,
+3,Payment failure,Critical,Closed,2024-01-03,2024-01-04
+4,Slow response,Medium,Closed,2024-01-05,2024-01-07
+5,Crash on submit,High,Open,2024-01-06,
